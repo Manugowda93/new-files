@@ -1,5 +1,6 @@
-mars is one of the
+mars is one of the planet
 beautiful
-productive
+expensive
 natured
-enjoyable
+enjoyabe
+moon
